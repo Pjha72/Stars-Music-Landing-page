@@ -1,3 +1,11 @@
+# Screenshot of the website
+
+![Screenshot (1538)](https://user-images.githubusercontent.com/88606641/221176319-c99b16b0-8f1f-44fd-9a31-0bcae858a24e.png)
+![12](https://user-images.githubusercontent.com/88606641/221177096-ca930318-d9f5-4207-b0e5-5365d4917cca.png)
+![Stars Music](https://user-images.githubusercontent.com/88606641/221177151-548607db-b2f8-4795-b1ca-ca39e8fb495e.png)
+![Stars Music (1)](https://user-images.githubusercontent.com/88606641/221177171-36368688-7a7a-49c0-9b67-f40a2ea4931e.png)
+![Stars Music (2)](https://user-images.githubusercontent.com/88606641/221177204-28ef9855-28a2-428a-bef1-109d8fa565dc.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
